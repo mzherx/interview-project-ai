@@ -1,4 +1,4 @@
-import Authform from '@/Components/Authform'
+import Authform from '@/Components/AuthForm'
 import React from 'react'
 
 const page = () => {
